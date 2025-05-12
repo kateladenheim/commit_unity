@@ -1,0 +1,2 @@
+.dylib filter=lfs diff=lfs merge=lfs -text
+C:/Users/laden/Documents/GitHub/commit_unity/COMMIT_2025/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
